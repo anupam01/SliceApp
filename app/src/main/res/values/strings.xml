@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Slice App</string>
+
+    <string name="select_text">Please select the number of image slices!</string>
+    <string name="choose_text">Please choose image from gallery!</string>
+    <string name="choose">Choose</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="success">Successfully saved to Gallery!</string>
+</resources>
